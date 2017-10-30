@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 30/10/2016 18:43:46.
+     1>Proyecto "C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project12\Project12\Project12.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\david\desktop\uni\eda\tercer año\ejercicios\project12\project12\source.cpp(19): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project12\Debug\Project12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project12\Debug\Project12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project12\Debug\Project12.lib" /MACHINE:X86 Debug\Source.obj
+         Project12.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project12\Debug\Project12.exe
+     1>Compilación del proyecto terminada "C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project12\Project12\Project12.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.73
