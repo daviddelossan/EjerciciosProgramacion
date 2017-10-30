@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\project43\project43\source.cpp(22): warning C4715: 'resolver': no todas las rutas de acceso de control devuelven un valor
+  Project43.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project43\Debug\Project43.exe
+  Project43.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Project43\Debug\Project43.pdb (Partial PDB)
