@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\persona.h(24): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\deque_eda.h(127): error C2512: 'Persona': no hay disponible un constructor predeterminado adecuado
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\persona.h(6): note: vea la declaración de 'Persona'
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\deque_eda.h(127): note: durante la compilación de la función miembro de plantilla de clase 'deque<T>::Nodo::Nodo(void)'
+          with
+          [
+              T=Persona
+          ]
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\deque_eda.h(26): note: vea la referencia a la creación de instancias de plantilla de función 'deque<T>::Nodo::Nodo(void)' que se está compilando
+          with
+          [
+              T=Persona
+          ]
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\list_eda.h(113): note: vea la referencia a la creación de instancias de plantilla de clase 'deque<T>::Nodo' que se está compilando
+          with
+          [
+              T=Persona
+          ]
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\list_eda.h(111): note: durante la compilación de la función miembro de plantilla de clase 'Persona &list<Persona>::iterator::operator *(void)'
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\source.cpp(46): note: vea la referencia a la creación de instancias de plantilla de función 'Persona &list<Persona>::iterator::operator *(void)' que se está compilando
+  c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\list\un viaje a la luna\un viaje a la luna\source.cpp(45): note: vea la referencia a la creación de instancias de plantilla de clase 'list<Persona>::iterator' que se está compilando
