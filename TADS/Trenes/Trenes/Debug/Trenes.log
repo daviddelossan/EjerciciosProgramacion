@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\tads\trenes\trenes\horas.h(19): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\tads\trenes\trenes\horas.h(21): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\tads\trenes\trenes\horas.h(23): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\tads\trenes\trenes\source.cpp(22): warning C4018: '<': no coinciden signed/unsigned
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\tads\trenes\trenes\source.cpp(26): warning C4018: '<': no coinciden signed/unsigned
+  Trenes.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Segundo cuatri\TADS\Trenes\Debug\Trenes.exe
+  Trenes.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Segundo cuatri\TADS\Trenes\Debug\Trenes.pdb (Partial PDB)
