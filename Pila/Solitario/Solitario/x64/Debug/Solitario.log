@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\david\desktop\uni\eda\tercer año\ejercicios\segundo cuatri\solitario\solitario\source.cpp(20): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tCarta' cuando no hay ninguna variable declarada
+  Solitario.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Segundo cuatri\Solitario\x64\Debug\Solitario.exe
+  Solitario.vcxproj -> C:\Users\David\Desktop\Uni\EDA\Tercer año\Ejercicios\Segundo cuatri\Solitario\x64\Debug\Solitario.pdb (Partial PDB)
